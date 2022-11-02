@@ -1,0 +1,19 @@
+The staged area is used to prepare all your files and changes for committing
+
+
+-> View history of specific file, displays 
+date and name of people who changed it
+git blame <filename>
+git blame -L <start line no., ending line no.> <filename>
+git blame -l <file> to change the display git blame
+
+
+-> Comparisons against branches. Allows you to inspect your current changes before committing
+git diff <<branch1/branch2>>
+
+-> Beautify history of commit
+git log --pretty=oneline
+
+Git Blame ---------------------------vs--------------------------- Git Log
+displays where it was changed --------||-------- gives you details of the change
+

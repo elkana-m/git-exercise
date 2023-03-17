@@ -1,0 +1,1 @@
+used 'git rebase --onto main feature-1' to update the file from main to feature-1. The main branch was 1 step ahead the feature-1 branch, there the following command helped it: 'git rebase --onto main feature-1'
